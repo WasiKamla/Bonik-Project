@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bonik.com/static/css/main.61af73ee.css",
+    "main.js": "/bonik.com/static/js/main.eccfee69.js",
+    "static/media/logo.svg": "/bonik.com/static/media/logo.6172109437bb6cb48eb8dc1f65c9964c.svg",
+    "static/media/slick.svg": "/bonik.com/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/bonik.com/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/bonik.com/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/bonik.com/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/bonik.com/index.html",
+    "main.61af73ee.css.map": "/bonik.com/static/css/main.61af73ee.css.map",
+    "main.eccfee69.js.map": "/bonik.com/static/js/main.eccfee69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61af73ee.css",
+    "static/js/main.eccfee69.js"
+  ]
+}
